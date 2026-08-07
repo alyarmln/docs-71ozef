@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://resources-bb57ms.date-me.pro/sitemap.xml
